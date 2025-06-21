@@ -107,4 +107,4 @@ Este projeto está sobre a licença MIT. Veja o arquivo [LICENSE](https://github
 
 ---
 
-Made with <3 by [Elaine Ferreira](https://github.com/elainefs/)
+Made with ❤️ by [Elaine Ferreira](https://github.com/elainefs/)
